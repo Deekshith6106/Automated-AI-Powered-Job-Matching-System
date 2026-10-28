@@ -14,6 +14,10 @@ py app.py
 
 Then open http://127.0.0.1:5000
 
+LIVE DEMO LINK
+https://automated-ai-powered-job-matching-system.onrender.com
+
+
 ## Demo administrator
 Email: `admin@campusbridge.demo`  
 Password: `CampusAdmin@123`
